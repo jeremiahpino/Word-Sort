@@ -1,0 +1,5 @@
+Jeremiah Pino (jpino01)
+
+I used multiple header files and c files to create this program. While runnning the test cases I missed test case 3, 5, 10, 13, 14, 15, 16 by one word count. 
+My output was identical except that my total word count was was one more than expected. I was not able to find why my total word count would increment one extra word. 
+If I was able to find this small bug I would have passed those test cases.
